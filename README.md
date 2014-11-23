@@ -4,6 +4,9 @@ ConsoleUtilities
 A simple way to format table data when printing to the console
 
 
+
+##Example
+
 ```
 
 var table = new ConsoleTable(new [] {"FirstName", "LastName"});
