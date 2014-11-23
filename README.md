@@ -3,6 +3,11 @@ ConsoleUtilities
 
 A simple way to format table data when printing to the console
 
+Install from NuGet: 
+
+```
+PM> Install-Package TableFormatter
+```
 
 
 ##Example 1
