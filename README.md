@@ -7,6 +7,7 @@ A simple way to format table data when printing to the console
 
 ##Example 1
 
+###Setup
 ```
 
 var table = new ConsoleTable(new [] {"FirstName", "LastName"});
@@ -20,7 +21,7 @@ Console.Read();
 ```
 
 
-##Output
+###Output
 
 ```
 ++++++++++++++++++++++++++++
@@ -37,8 +38,9 @@ Console.Read();
 
 ```
 
-##Example 2 - Alternative Formatting
+##Example 2
 
+### Setup for Alternative Formatting
 
 ```
 
@@ -53,7 +55,7 @@ Console.Read();
 			
 ```
 
-##Output
+###Output
 
 ```
 ---------------------------
