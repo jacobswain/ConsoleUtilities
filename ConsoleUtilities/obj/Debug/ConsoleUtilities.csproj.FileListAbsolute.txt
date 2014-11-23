@@ -1,0 +1,5 @@
+C:\Users\Jacob\Dropbox\Visual Studio Projects\ConsoleUtilities\ConsoleUtilities\bin\Debug\ConsoleUtilities.dll
+C:\Users\Jacob\Dropbox\Visual Studio Projects\ConsoleUtilities\ConsoleUtilities\bin\Debug\ConsoleUtilities.pdb
+C:\Users\Jacob\Dropbox\Visual Studio Projects\ConsoleUtilities\ConsoleUtilities\obj\Debug\ConsoleUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Dropbox\Visual Studio Projects\ConsoleUtilities\ConsoleUtilities\obj\Debug\ConsoleUtilities.dll
+C:\Users\Jacob\Dropbox\Visual Studio Projects\ConsoleUtilities\ConsoleUtilities\obj\Debug\ConsoleUtilities.pdb
