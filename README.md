@@ -43,13 +43,13 @@ Console.Read();
 ```
 
 var settings = new ConsoleTableSettings ('|', '-'); 
-			var table = new ConsoleTable(new [] {"FirstName", "LastName"}, settings);
-			table.AddRow(new []{"Jacob", "Swain"});
-			table.AddRow(new []{"Ethan", "Swain"});
-			table.AddRow(new []{"Amie", "Swain"});
-			table.AddRow(new []{"Madison", "Swain"});  
-			table.WriteToConsole(); 
-			Console.Read(); 
+var table = new ConsoleTable(new [] {"FirstName", "LastName"}, settings);
+table.AddRow(new []{"Jacob", "Swain"});
+table.AddRow(new []{"Ethan", "Swain"});
+table.AddRow(new []{"Amie", "Swain"});
+table.AddRow(new []{"Madison", "Swain"});  
+table.WriteToConsole(); 
+Console.Read(); 
 			
 ```
 
